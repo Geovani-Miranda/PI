@@ -28,4 +28,4 @@ Este projeto está sendo desenvolvido para integrar as disciplinas de **Engenhar
 - Geovani Miranda
 - Mateus Terra
 - Luiz Felipe
-- Witor
+- Wictor Yuri
