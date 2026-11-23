@@ -1,4 +1,4 @@
-# BuildBase (Projeto Integrador I - DSM)
+# BuildEase (Projeto Integrador I - DSM) (Nome Provisório)
 
 Imagine que você precisa construir o segundo andar da sua casa. Normalmente, o primeiro passo seria pedir indicações a amigos para encontrar um pedreiro competente e de confiança.
 
